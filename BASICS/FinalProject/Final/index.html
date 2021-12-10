@@ -114,6 +114,16 @@
           >Zahra Barghamadi</a>
       </p>
     </div>
-    <script src="script.js"></script>
+    <script>function buy(){
+  let name=prompt("What is your name?");
+  if(name.length>0){
+  alert(
+    "Thanks,"+ name +" , we will be in touch. Meanwhile, have a lot of Yogurt!");
+  }else{
+    alert("No name, no Greek Yogurt for you!")
+  }
+}
+let buyButton =document.querySelector(".buyButton");
+buyButton.addEventListener("click",buy);</script>
   </body>
 </html>
