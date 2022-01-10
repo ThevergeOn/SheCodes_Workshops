@@ -68,14 +68,14 @@ h3 {
   color: #231d3c;
 }
 
-.logo {
+/* .logo {
   display: block;
   margin: 30px auto;
   width: 150px;
   position: absolute;
   top: 0;
   left: 0;
-}
+} */
 
 .img-positioning {
   display: block;
@@ -83,14 +83,14 @@ h3 {
   width: 75%;
 }
 
-.cities {
+/* .cities {
   background: #fff;
   padding: 20px;
   position: fixed;
   top: 0;
   right: 0;
-}
-.emojis {
+} */
+/* .emojis {
   position: relative;
 }
 .first {
@@ -102,4 +102,4 @@ h3 {
   top: 20px;
   left: 0;
 }
-
+ */
